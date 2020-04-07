@@ -1,0 +1,7 @@
+blackBG COlor:
+1C1C1C
+
+blues:
+4F8CB3
+111e6c
+707DFF
